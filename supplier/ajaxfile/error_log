@@ -1,0 +1,2 @@
+[21-Aug-2018 08:45:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/supplier/ajaxfile/u_settings.php on line 3
+[21-Aug-2018 14:15:34 Asia/Calcutta] PHP Notice:  Undefined index: HTTP_AUTHORIZATION in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/supplier/ajaxfile/u_settings.php on line 7

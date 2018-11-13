@@ -1,0 +1,188 @@
+[06-Aug-2018 10:57:46 UTC] PHP Warning:  include_once(../../config/config.php): failed to open stream: No such file or directory in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 1
+[06-Aug-2018 10:57:46 UTC] PHP Warning:  include_once(): Failed opening '../../config/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 1
+[06-Aug-2018 10:57:46 UTC] PHP Fatal error:  Uncaught Error: Class 'DBHandler' not found in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 2
+[06-Aug-2018 10:58:04 UTC] PHP Warning:  include_once(../../config/config.php): failed to open stream: No such file or directory in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 1
+[06-Aug-2018 10:58:04 UTC] PHP Warning:  include_once(): Failed opening '../../config/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 1
+[06-Aug-2018 10:58:04 UTC] PHP Fatal error:  Uncaught Error: Class 'DBHandler' not found in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 2
+[06-Aug-2018 16:43:40 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 17
+[06-Aug-2018 16:45:40 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 21
+[06-Aug-2018 16:45:48 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 21
+[06-Aug-2018 16:46:14 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 21
+[06-Aug-2018 16:46:28 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 19
+[06-Aug-2018 16:46:46 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 21
+[06-Aug-2018 16:47:07 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 20
+[06-Aug-2018 16:47:36 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 17
+[06-Aug-2018 16:47:43 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 17
+[06-Aug-2018 16:48:00 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 17
+[06-Aug-2018 16:48:26 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 16
+[06-Aug-2018 16:48:31 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 16
+[06-Aug-2018 16:48:33 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 16
+[06-Aug-2018 16:59:08 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 16
+[06-Aug-2018 16:59:10 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 16
+[06-Aug-2018 16:59:46 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[06-Aug-2018 16:59:46 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 17
+[06-Aug-2018 16:59:55 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[06-Aug-2018 16:59:55 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 17
+[06-Aug-2018 17:00:18 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[06-Aug-2018 17:00:18 Asia/Calcutta] PHP Notice:  Undefined index: login_type in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 17
+[06-Aug-2018 17:05:04 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[06-Aug-2018 18:26:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/config/config.php:16
+Stack trace:
+#0 /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php(4): DBHandler->runQuery(Object(mysqli), 'select * from c...')
+#1 {main}
+  thrown in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/config/config.php on line 16
+[06-Aug-2018 18:36:06 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 13
+[06-Aug-2018 18:36:09 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 13
+[06-Aug-2018 18:39:41 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 20
+[06-Aug-2018 18:39:45 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 20
+[06-Aug-2018 18:45:57 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 13
+[06-Aug-2018 18:46:01 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 13
+[06-Aug-2018 18:46:32 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 20
+[06-Aug-2018 18:48:44 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 13
+[06-Aug-2018 18:48:47 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 13
+[06-Aug-2018 18:49:04 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 20
+[06-Aug-2018 19:23:21 Asia/Calcutta] PHP Notice:  Undefined index: hotel_add_userid in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/register.php on line 4
+[06-Aug-2018 19:27:48 Asia/Calcutta] PHP Notice:  Undefined index: hotel_add_userid in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/register.php on line 4
+[06-Aug-2018 19:28:27 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[07-Aug-2018 12:42:57 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[07-Aug-2018 12:43:08 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[07-Aug-2018 14:50:50 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[07-Aug-2018 16:21:08 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[07-Aug-2018 19:24:13 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[08-Aug-2018 11:51:39 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[08-Aug-2018 13:12:26 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[08-Aug-2018 17:06:24 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[08-Aug-2018 18:50:08 Asia/Calcutta] PHP Notice:  Undefined index: hotel_add_userid in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/register.php on line 4
+[08-Aug-2018 18:50:16 Asia/Calcutta] PHP Notice:  Undefined index: hotel_add_userid in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/register.php on line 4
+[08-Aug-2018 18:58:16 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 10:59:23 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 14:24:26 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 15:23:08 Asia/Calcutta] PHP Notice:  Undefined index: hotel_add_userid in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/register.php on line 4
+[09-Aug-2018 15:28:30 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 15:28:56 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 15:28:56 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 15:29:13 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 15:29:18 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 15:29:20 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 15:29:26 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 15:29:36 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 16:57:58 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 19:08:18 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[09-Aug-2018 19:11:24 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 14:02:51 Asia/Calcutta] PHP Notice:  Undefined index: hotel_add_userid in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/register.php on line 4
+[10-Aug-2018 14:03:40 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 14:17:18 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:49:17 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:49:40 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:50:11 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:50:37 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:51:37 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:52:13 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:53:46 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:54:27 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:54:31 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:55:57 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:56:19 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:56:26 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[10-Aug-2018 19:56:37 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[13-Aug-2018 11:54:36 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[13-Aug-2018 13:12:22 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[14-Aug-2018 11:32:27 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[14-Aug-2018 11:32:29 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[14-Aug-2018 11:32:44 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[14-Aug-2018 11:36:13 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[16-Aug-2018 15:07:37 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[17-Aug-2018 11:17:04 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[17-Aug-2018 12:01:34 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[17-Aug-2018 12:09:31 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[17-Aug-2018 12:09:45 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[17-Aug-2018 12:11:48 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[17-Aug-2018 16:27:03 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[17-Aug-2018 16:34:18 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[17-Aug-2018 16:34:18 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[18-Aug-2018 10:54:11 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[18-Aug-2018 11:00:59 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[18-Aug-2018 12:05:57 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[20-Aug-2018 10:54:17 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[20-Aug-2018 12:58:12 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[20-Aug-2018 13:11:02 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:11:08 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:11:09 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:11:38 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:11:41 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:12:14 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:12:21 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:16:34 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:20:17 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:27:40 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:30:50 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:30:54 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:32:18 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 13:32:35 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:10:30 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:12:54 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:32:57 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:36:48 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:37:51 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:37:54 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:37:56 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:37:58 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:38:00 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:38:01 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:41:56 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:42:11 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:42:17 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 14:42:18 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Aug-2018 19:02:14 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[21-Aug-2018 13:09:10 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[21-Aug-2018 14:29:46 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[21-Aug-2018 14:29:49 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[21-Aug-2018 14:33:26 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[21-Aug-2018 14:34:53 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[18-Sep-2018 15:06:25 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[18-Sep-2018 15:07:07 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[18-Sep-2018 15:07:34 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[18-Sep-2018 15:10:03 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[18-Sep-2018 15:10:14 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[18-Sep-2018 15:10:14 Asia/Calcutta] PHP Notice:  Undefined index: loginby in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 6
+[18-Sep-2018 15:14:38 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/loadlocation.php on line 13
+[16-Oct-2018 11:28:19 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 11:28:37 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 11:28:44 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 11:29:43 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 11:35:54 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 11:43:29 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 11:43:35 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 11:47:38 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 11:51:16 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 12:00:54 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 12:01:25 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 12:01:29 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 12:02:57 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 12:03:01 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 12:03:09 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 12:03:39 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 12:07:08 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 12:08:01 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 12:10:24 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 13:42:18 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 15:04:42 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[16-Oct-2018 16:24:32 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[20-Oct-2018 10:07:16 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[22-Oct-2018 18:32:02 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[22-Oct-2018 18:32:08 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[22-Oct-2018 18:40:49 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[22-Oct-2018 18:41:01 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[23-Oct-2018 18:07:50 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[23-Oct-2018 18:07:51 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[23-Oct-2018 18:09:26 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[25-Oct-2018 15:48:54 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[25-Oct-2018 15:49:07 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[25-Oct-2018 18:26:53 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5
+[25-Oct-2018 22:23:27 Asia/Calcutta] PHP Notice:  Undefined index: remember-me in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/ajaxcall/login.php on line 5

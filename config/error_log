@@ -1,0 +1,6 @@
+[09-Aug-2018 08:01:56 UTC] PHP Notice:  Use of undefined constant case_insensitive - assumed 'case_insensitive' in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/config/required.php on line 2
+[09-Aug-2018 08:02:03 UTC] PHP Notice:  Use of undefined constant case_insensitive - assumed 'case_insensitive' in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/config/required.php on line 2
+[09-Aug-2018 08:02:10 UTC] PHP Notice:  Use of undefined constant case_sensitive - assumed 'case_sensitive' in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/config/required.php on line 2
+[09-Aug-2018 08:02:39 UTC] PHP Warning:  constant(): Couldn't find constant GREETINg in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/config/required.php on line 3
+[09-Aug-2018 08:08:36 UTC] PHP Notice:  Use of undefined constant GREETINg - assumed 'GREETINg' in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/config/required.php on line 4
+[09-Aug-2018 08:08:59 UTC] PHP Warning:  constant(): Couldn't find constant GREETINg in /home/organizationthe/public_html/www.c2shub.com/demoestest/channelmanager/config/required.php on line 4
